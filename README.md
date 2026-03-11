@@ -2,6 +2,6 @@
 
 # Hi, I'm Zark 👋
 
-### **C developer from Afghanistan.**
+### **C developer from Afghanistan**
 
 </div>
