@@ -1,5 +1,9 @@
-# Hey, I'm Zark 👋
+<div align="center">
 
-Grade 12 developer from Afghanistan.
+# Hi, I'm Zark 👋
 
-Currently focused on C and low-level systems programming.
+C developer from Afghanistan.
+
+Currently focused on low-level systems programming.
+
+</div>
