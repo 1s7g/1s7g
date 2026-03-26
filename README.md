@@ -2,14 +2,29 @@
 
 <br>
 
-# zark
-
-c developer · afghanistan
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="350">
 
 <br>
 
-i like understanding how things work by building them from scratch.  
-emulators, allocators, packet sniffers, games — all c, all from the ground up.
+# zark
+
+writing c so you don't have to
+
+<br>
+
+i build things from scratch to understand how they work
+<br>
+emulators, memory allocators, packet sniffers, horror games
+<br>
+all c, all low level
+
+<br>
+
+`c` · `linux` · `sdl2` · `raylib` · `win32`
+
+<br>
+
+heading to mcmaster for cs this fall
 
 <br>
 
