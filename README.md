@@ -1,7 +1,16 @@
 <div align="center">
 
-# Hi, I'm Zark
+<br>
 
-### **C developer from Afghanistan**
+# zark
+
+c developer · afghanistan
+
+<br>
+
+i like understanding how things work by building them from scratch.  
+emulators, allocators, packet sniffers, games — all c, all from the ground up.
+
+<br>
 
 </div>
