@@ -6,25 +6,25 @@
 
 <br>
 
-# zark
+# I'm Zark
 
-writing c so you don't have to
-
-<br>
-
-i build things from scratch to understand how they work
-<br>
-emulators, memory allocators, packet sniffers, horror games
-<br>
-all c, all low level
+Writing C so you don't have to
 
 <br>
 
-`c` · `linux` · `sdl2` · `raylib` · `win32`
+I build things from scratch to understand how they work
+<br>
+Emulators, memory allocators, packet sniffers, horror games
+<br>
+All C, all low level
 
 <br>
 
-heading to mcmaster for cs this fall
+`C` · `Linux` · `SDL2` · `Raylib` · `Win32`
+
+<br>
+
+Heading to McMaster for CS this fall
 
 <br>
 
